@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ljy/esvo_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/ljy/fast-lieo_ws/devel/include/**",
+        "/home/ljy/esvo_ws/src/rpg_dvs_ros/davis_ros_driver/include/**",
+        "/home/ljy/esvo_ws/src/rpg_dvs_ros/dvs_calibration/include/**",
+        "/home/ljy/esvo_ws/src/rpg_dvs_ros/dvs_renderer/include/**",
+        "/home/ljy/esvo_ws/src/rpg_dvs_ros/dvs_ros_driver/include/**",
+        "/home/ljy/esvo_ws/src/rpg_dvs_ros/dvxplorer_ros_driver/include/**",
+        "/home/ljy/esvo_ws/src/eigen_checks/include/**",
+        "/home/ljy/esvo_ws/src/ESVO/esvo_core/include/**",
+        "/home/ljy/esvo_ws/src/ESVO/esvo_time_surface/include/**",
+        "/home/ljy/fast-lieo_ws/src/extrinsics_calc/include/**",
+        "/home/ljy/esvo_ws/src/minkindr/minkindr/include/**",
+        "/home/ljy/esvo_ws/src/minkindr_ros/minkindr_conversions/include/**",
+        "/home/ljy/fast-lieo_ws/src/mpl_dataset_toolbox/include/**",
+        "/home/ljy/esvo_ws/src/numpy_eigen/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
